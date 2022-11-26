@@ -2,7 +2,7 @@
 #
 # Example:
 # N = 8 -> 20, i.e. 2+4+6+8=20
-# N = -7 -> -20, i.e. (-6)+(-4)+(-2)=-12
+# N = -7 -> -12, i.e. (-6)+(-4)+(-2)=-12
 
 def get_sum_even_number(x):
     """Return the sum of even numbers between 1 and N inclusive."""
