@@ -7,7 +7,9 @@
 # List of INDEXES: [2, 2, 3, 1, 8]
 # Input: 4
 # Output:
-# [-4, -3, -2, -1, 0, 1, 2, 3, 4] -> index[2]*index[2]*index[3]*index[1]*index[8] -> (-2)*(-2)*(-1)*(-3)*4=48
+# [-4, -3, -2, -1, 0, 1, 2, 3, 4] ->
+# -> index[2]*index[2]*index[3]*index[1]*index[8] ->
+# -> (-2)*(-2)*(-1)*(-3)*4=48
 
 import random
 
