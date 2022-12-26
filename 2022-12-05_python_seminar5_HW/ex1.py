@@ -51,6 +51,8 @@ def play_game(candies: int, move: bool, bot_difficulty: bool):
                     while True:
                         if candies <= i:
                             number_bot = candies - i + 28
+                            if number_bot == 0:
+                                number_bot = random.randint(1, 28)
                             candies -= number_bot
                             move = True
                             break
