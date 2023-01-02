@@ -1,0 +1,35 @@
+Last Name: EREMEEVA
+First Name: MARINA
+Phone number: +7 (954) 238-50-87
+Description: home
+
+Last Name: TABAKOV
+First Name: MAKAR
+Phone number: +7 (938) 407-37-20
+Description: work
+
+Last Name: NIKOLSKA
+First Name: LANA
+Phone number: +7 (925) 290-14-19
+Description: home
+
+Last Name: BALABANOV
+First Name: DANIIL
+Phone number: +7 (950) 492-39-63
+Description: work
+
+Last Name: KULCHITSKAIA
+First Name: ALISA
+Phone number: +7 (913) 228-87-91
+Description: home
+
+Last Name: KOLPAKOV
+First Name: ILIA
+Phone number: +7 (971) 187-54-91
+Description: home
+
+Last Name: RIAZANOVA
+First Name: NASTASIA
+Phone number: +7 (944) 163-72-34
+Description: work
+
