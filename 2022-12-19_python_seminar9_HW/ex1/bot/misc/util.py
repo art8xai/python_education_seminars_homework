@@ -11,7 +11,7 @@ async def delete_abc(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None
     """Delete words containing the phrase "abc" in the message."""
     phrase = 'abc'
     text_source = update.message.text.split()
-    result = ' '.join(filter(lambda x: phrase not in x, text_source))
+    result = ' '.join(filter(lambda x: phrase not in x.lower(), text_source))
     if result == '':
         await update.message.reply_text('Hmm, I removed all the words, so there is nothing to return.', quote=True)
     else:
